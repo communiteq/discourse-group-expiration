@@ -1,0 +1,16 @@
+en:
+  site_settings:
+    group_expiration_enabled: "Enable Group Expiration plugin"
+  group_expiration:
+    pm_expired_grand_cru_cru_body: "Hello %{username}, Your access to %{groupname} has expired on %{date}. Go to x to renew your access."
+    pm_expired_grand_cru_cru_title: "Access expired GCC."
+    pm_expired_monopole_cru_body: "Hello %{username}, Your access to %{groupname} has expired on %{date}. Go to x to renew your access."
+    pm_expired_monopole_cru_title: "Access expired MC."
+    pm_expired_berserkerbusiness_body: "Hello %{username}, Your access to %{groupname} has expired on %{date}. Go to x to renew your access."
+    pm_expired_berserkerbusiness_title: "Access expired BB."
+    pm_notice_grand_cru_cru_body: "Hello %{username}, Your access to %{groupname} has notice on %{date}. Go to x to renew your access."
+    pm_notice_grand_cru_cru_title: "Access notice GCC."
+    pm_notice_monopole_cru_body: "Hello %{username}, Your access to %{groupname} has notice on %{date}. Go to x to renew your access."
+    pm_notice_monopole_cru_title: "Access notice MC."
+    pm_notice_berserkerbusiness_body: "Hello %{username}, Your access to %{groupname} has notice on %{date}. Go to x to renew your access."
+    pm_notice_berserkerbusiness_title: "Access notice BB."
